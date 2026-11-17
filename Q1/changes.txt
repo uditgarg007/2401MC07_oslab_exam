@@ -1,0 +1,8 @@
+sem.c (new, add sem.o to OBJS), defined semafore table etc
+defs.h, info about sema  
+syscall.h, defined functions of semas
+syscall.c, info about sema and sema functions
+sysproc.c, seminit semwait sempost
+user.h, info about sema
+Makefile, added synctest
+synctest.c. parents and forks and other instructions as per question
